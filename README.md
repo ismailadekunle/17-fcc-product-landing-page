@@ -1,27 +1,40 @@
-# Project Name
+# A PRODUCT LANDING PAGE
 
-> One paragraph statement about the project.
+> A product landing page built for marketing.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - `footer`, `section`, `div`, etc.
+- CSS properties
+
+  - CSS Background for page aesthetic using
+    `background-color`, `background`, .
+  - CSS Typography properties
+    `text-decoration`, `text-transform`, `color`, etc
+  - CSS Box Model properties
+    `border-bottom`, `padding`, `box-sizing`, etc
+  - CSS Flexbox properties
+    `flex-direction`, `align-items`, `flex-wrap`, `` etc
+  - CSS Cursor properties `cursor`
+
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-product-landing-page-ismail.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:ismailadekunle/17-fcc-product-landing-page.git
 
 ```
 
